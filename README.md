@@ -6,4 +6,3 @@ Here we give image as an input and the python runs an algorithm called SOBEL EDG
 This system also uses EMBEDED SENSORS to find the Strength of the structure.
 We use  a MICRO CONTROLLER named ARDUINO UNO to obtain the data from SENSORS and then using the formula from IS 13311-1992, PART-1 the strength of the structure is given.
 ALL THE REPORTS AND CODE AND IMAGES ARE UPLOADED IN THIS REPOSITORY.
-.
